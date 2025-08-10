@@ -1,0 +1,10 @@
+faiss-cpu
+sentence-transformers
+langchain
+openai
+streamlit
+transformers
+accelerate
+pymupdf
+python-docx
+tqdm
